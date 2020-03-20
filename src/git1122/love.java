@@ -7,6 +7,7 @@ public class love {
 		System.out.println("哈喽,李@!!!");
 		System.out.println("第一个Egit");
 		System.out.println("测试冲突");
+		System.out.println("1123344");
 	}
 
 }
