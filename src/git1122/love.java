@@ -9,6 +9,7 @@ public class love {
 		System.out.println("测试冲突");
 		System.out.println("1123344");
 		System.out.println("冲突红点！！！");
+		System.out.println("弹窗测试！！！");
 	}
 
 }
