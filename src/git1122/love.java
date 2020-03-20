@@ -5,6 +5,7 @@ public class love {
 	public static void main(String[] args) {
 		System.out.println("dfcgdfd");
 		System.out.println("哈喽,李@!!!");
+		System.out.println("第一个Egit");
 	}
 
 }
